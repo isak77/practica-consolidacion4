@@ -1,0 +1,88 @@
+body{
+    background-image: url("/assets/img/fondepagina2.jpg");
+    background-attachment: fixed;
+}
+#titulo{
+    color:rgb(108, 180, 57);
+    text-align: center;
+}
+
+.card1{
+    background-color: red;
+    margin-bottom: 10px;
+    border-radius: 10%;
+    
+}.card-body1{
+    padding: 20px 20px;
+    text-align: justify;
+}
+.card1-img-top{
+    display:block;
+    width:auto;
+    border-radius: 10%;
+}
+.card1-text{
+    color: lawngreen;
+}
+.card-title1{
+    text-align: center;
+    color:rgb(176, 174, 87);
+}
+
+.card2{
+    background-color: rgb(62, 159, 45);
+    margin-bottom: 10px;
+    border-radius: 10%;
+    
+}.card-body2{
+    padding: 20px 20px;
+    text-align: justify;
+}
+.card2-img-top{
+    width:auto;
+    border-radius: 10%;
+}
+.card2-text{
+    color: lawngreen;
+}
+.card-title2{
+    text-align: center;
+    color:white;
+}
+.card3{
+    background-color: rgb(57, 133, 205);
+    margin-bottom: 10px;
+    border-radius: 20%;
+}
+    
+.card-body3{
+    padding: 20px 20px;
+    text-align: justify;
+}
+.card3-img-top{
+    width: 90%;
+    border-radius: 20%;
+}
+.card3-text{
+    color: lawngreen;
+}
+.card-title3{
+    text-align: center;
+    color:white;
+}
+#personajesPrincipales{
+    text-align: center;
+    color:rgb(57, 226, 63)
+}
+#personajesSegundarios{
+    text-align: center;
+    color: rgb(222, 230, 238);
+}
+#otrosPersonajes{
+    text-align: center;
+    color: antiquewhite;
+}
+#btnSegundarios{
+    text-align: center;
+    align-content: center;
+}
